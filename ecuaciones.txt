@@ -6,3 +6,8 @@ ALL ( ( ( "biomass supply chain*" OR "bioenergy supply chain*" OR "biomass-to-bi
 
 SCOPUS 3: 2170 RESULTADOS
 ALL ( ( ( biomass OR "biomass supply chain*" OR "bioenergy supply chain*" ) AND ( "multi-objective optimiz*" OR "multi-criteria optimiz*" OR "multiple objective*" ) AND ( bayes* OR "Bayesian approach*" OR "Bayesian method*" OR "Bayesian inference" OR "probabilistic model*" OR "stochastic programming" OR "stochastic optimization" ) AND ( uncertain* OR "dynamic decision*" OR "decision making" ) ) )
+
+
+
+SCOPUS 5: 261 RESULTADOS
+( TITLE-ABS-KEY ( ( "cultivation" OR "feedstock production" OR "biomass origin" OR "crop production" ) OR ( "harvesting" OR "collection" OR "residue gathering" ) OR ( "pretreatment" OR "pre-treatment" OR "storage" OR "drying" OR "densification" ) OR ( "transport" OR "Vehicle Routing" OR "logistics" OR "supply chain transport" ) OR ( "conversion" OR "processing" OR "biorefinery" OR "thermochemical conversion" OR "biochemical conversion" ) OR ( "distribution" OR "end use" ) ) AND TITLE-ABS-KEY ( "mathematical model" OR "optimization" OR "decision-making tools" OR "operations research" OR "simulation" OR "neural network bayesian*" OR "optimization bayesian" OR "model* bayesian" OR "machine learning" OR "deep learning" OR "Heuristic Model" OR "Stochastic Model" ) AND TITLE-ABS-KEY ( "biomass supply chain" OR "biomass value chain" OR "residual biomass" OR "energy crops" ) )
